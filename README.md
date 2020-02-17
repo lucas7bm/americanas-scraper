@@ -1,0 +1,1 @@
+# americanas-scraper
